@@ -15,16 +15,7 @@
     "worker": {
       "quantity": 1,
       "size": "eco"
-    }
-  },
-  "addons": [
-      {
-         "options": {
-            "version": "12"
-         },
-         "plan": "heroku-postgresql"
-      }
-   ],
+   
   "repository": "https://github.com/StarkBotsIndustries/StringSessionBot",
   "env": {
     "ENVIRONMENT": {
